@@ -1,0 +1,11 @@
+author: TechMastary
+database: false
+description: "Have you ever thought about having fun stopping the server? Well, here\
+  \ it is! Competitive plugin to see who can type the stop server command first!\r\
+  \n"
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: me.techmastary.plugins.stopcompetition.Stopcompetition
+name: StopCompetition
+startup: postworld
+url: http://TechMastary.net/
+version: '1.0'
